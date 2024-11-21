@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrLalitMehra
-- 👀 I’m interested in web development and database
+- 👀 I’m interested in DSA,web development and database
 - 🌱 I’m currently learning javascipt
 - 😄 Pronouns: he/his/him
 
